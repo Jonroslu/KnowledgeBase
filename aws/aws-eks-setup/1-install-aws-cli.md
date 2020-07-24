@@ -12,6 +12,6 @@ Note that the `awscli` requires access keys. You may get them by going to `<my u
 
 After downloading the key ID and password, you will have to give your credentials to the `awscli`. Simply type `awscli configure` and it will prompt you for them.
 
-[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/awk-eks-setup/2-create-role.md)
+[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/aws/awk-eks-setup/2-create-role.md)
 
 
