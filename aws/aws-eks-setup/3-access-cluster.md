@@ -79,4 +79,4 @@ aws eks create-nodegroup \
 
 It will take a few until it finished, but once it is `CREATED` we will be able to connect with kubectl.
 
-[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/aws/awk-eks-setup/4-playing-around-and-cleanup.md)
+[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/aws/aws-eks-setup/4-playing-around-and-cleanup.md)

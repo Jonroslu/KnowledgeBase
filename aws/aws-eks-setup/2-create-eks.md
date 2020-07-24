@@ -62,4 +62,4 @@ aws eks describe-cluster --name eks-cluster
 
 Finally, it'd be a good idea to wait for the cluster to be "Active" rather than "Creating". It usually takes about 5 minutes. You may check the status in the aws consoles or by running `aws eks describe-cluster --name eks-cluster`.
 
-[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/aws/awk-eks-setup/3-access-cluster.md)
+[Next](https://https://github.com/Jonroslu/KnowledgeBase/blob/master/aws/aws-eks-setup/3-access-cluster.md)
